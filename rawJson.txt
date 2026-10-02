@@ -1,0 +1,29 @@
+{
+  "patient_id": "P-100295",
+  "first_name": "Sophia",
+  "last_name": "Taylor",
+  "date_of_birth": "1992-08-20",
+  "gender": "Female",
+  "blood_type": "B+",
+  "contact": {
+    "email": "sophia.taylor@example.com",
+    "phone": "+1-555-018-4422",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Boston",
+      "state": "MA",
+      "postal_code": "02108",
+      "country": "USA"
+    }
+  },
+  "emergency_contact": {
+    "name": "David Taylor",
+    "relationship": "Father",
+    "phone": "+1-555-018-4423"
+  },
+  "medical_profile": {
+    "allergies": ["Latex"],
+    "chronic_conditions": [],
+    "current_medications": []
+  }
+}
