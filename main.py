@@ -278,7 +278,7 @@ def update_patient(
 
             # Update patient record with new data
             item.update(update_data)
-            raw_data[index] = item
+            raw_data[index] = item 
 
             # Persist changes back to file
             save_patients_data(raw_data, is_wrapped)
